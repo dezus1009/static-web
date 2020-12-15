@@ -575,7 +575,7 @@
 									</div>
 								</div>
 								<div style="margin-left: 20px; color: #000080">
-									<h2>MŨ(NÓN)</h2>
+									<h2>mimi</h2>
 								</div>
 								<div class="ao">
 									<a class="sp" href="#"><img src="1.jpg" alt="" width="290" height="300px"></a>
